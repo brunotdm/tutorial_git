@@ -1,3 +1,4 @@
 1. Testando o git;
 2. Controle de versões;
 3. Bruno Ernesto Techera da Motta.
+4. Fazendo algumas alterações.
